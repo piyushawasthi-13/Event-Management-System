@@ -1,1 +1,0 @@
-# Student-Examination-Portal
