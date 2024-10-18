@@ -1,1 +1,5 @@
-this is the requirements files
+aiohttp==3.8.5
+structlog==22.3.0
+pydantic==2.0.0  # If you're using Pydantic
+PyJWT==2.5.0
+SQLAlchemy==2.0.0  # If you're using SQLAlchemy
