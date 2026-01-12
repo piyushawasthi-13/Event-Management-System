@@ -1,4 +1,4 @@
-aiohttp==3.8.5
+aiohttp==3.13.3
 structlog==22.3.0
 pydantic==2.0.0  # If you're using Pydantic
 PyJWT==2.5.0
